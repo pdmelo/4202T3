@@ -1,0 +1,11 @@
+SamAccountName,password,path,GivenName,Surname,Initials,Name,DisplayName,UserPrincipalName,Department,EmailAddress,Title
+julie.dea,Welcome123!,"OU=IT,OU=grandslam,DC=initial,DC=local",Julie,Dea,,Julie Dea,Julie Dea,julie.dea@grandslam.com,IT,julie.dea@grandslam.com,Intern IT
+peter.switch,Welcome123!,"OU=IT,OU=grandslam,DC=initial,DC=local",Peter,Switch,,Peter Switch,Peter Switch,peter.switch@grandslam.com,IT,peter.switch@grandslam.com,Intern IT
+andrew.nobble,Welcome123!,"OU=Operations,OU=Departments,OU=grandslam,DC=initial,DC=local",Andrew,Nobble,,Andrew Nobble,Andrew Nobble,andrew.nobble@grandslam.com,Operations,andrew.nobble@grandslam.com,Intern Operations
+eric.oneil,Welcome123!,"OU=Finance,OU=Departments,OU=grandslam,DC=initial,DC=local",Eric,O'Neil,,Eric O'Neil,Eric O'Neil,eric.oneil@grandslam.com,Finance,eric.oneil@grandslam.com,Intern Finance
+lisa.tremblay,Welcome123!,"OU=Finance,OU=Departments,OU=grandslam,DC=initial,DC=local",Lisa,Tremblay,,Lisa Tremblay,Lisa Tremblay,lisa.tremblay@grandslam.com,Finance,lisa.tremblay@grandslam.com,Intern Finance
+emily.smith,Welcome123!,"OU=Finance,OU=Departments,OU=grandslam,DC=initial,DC=local",Emily,Smith,,Emily Smtih,Emily Smtih,emily.smith@grandslam.com,Finance,emily.smith@grandslam.com,Intern Finance
+alexandre.lagrange,Welcome123!,"OU=Marketing,OU=Departments,OU=grandslam,DC=initial,DC=local",Alexandre,Lagrange,,Alexandre Lagrange,Alexandre Lagrange,alexandre.lagrange@grandslam.com,Marketing,alexandre.lagrange@grandslam.com,Intern Marketing
+claire.pincourt,Welcome123!,"OU=Marketing,OU=Departments,OU=grandslam,DC=initial,DC=local",Claire,Pincourt,,Claire Pincourt,Claire Pincourt,claire.pincourt@grandslam.com,Marketing,claire.pincourt@grandslam.com,Intern Marketing
+julie.bao,Welcome123!,"OU=HR,OU=Departments,OU=grandslam,DC=initial,DC=local",Julie,Bao,,Julie Bao,Julie Bao,julie.bao@grandslam.com,HR,julie.bao@grandslam.com,Intern HR
+stan.steal,Welcome123!,"OU=HR,OU=Departments,OU=grandslam,DC=initial,DC=local",Stan,Steal,,Stan Steal,Stan Steal,stan.steal@grandslam.com,HR,stan.steal@grandslam.com,Intern HR
